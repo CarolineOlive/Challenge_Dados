@@ -15,7 +15,7 @@
 
 <h3>Etapas | Resumo</h3>
   <p><h4> Primeira etapa: Obtenção dos dados</p></h4>
-    <p>O backup do banco de dados mysql foi restaurado e as informações contidas nas quatro tabelas disponíveis, foram unidas por meio de uma <a href="https://github.com/CarolineOlive/Challenge_Dados/blob/main/db_dados_analise.sql">query</a>. Para facilitar o entendimento das informações contidas em cada colunas, foi feita a tradução das informações. Com todos os dados reunidos, a tabela foi exportada em formato .csv para ser usada como base de dados na etapa de análise exploratório e preditiva.
+    <p>O backup do banco de dados mysql foi restaurado e as informações contidas nas quatro tabelas disponíveis, foram unidas por meio de uma <a href="https://github.com/CarolineOlive/Challenge_Dados/blob/main/db_dados_analise.sql">query</a>. Para facilitar o entendimento das informações contidas em cada colunas, foi feita a tradução das informações. Com todos os dados reunidos, a tabela foi exportada em formato .csv para ser usada como <a href="https://github.com/CarolineOlive/Challenge_Dados/blob/main/tb_challenge_alura_cash.csv">base de dados</a> na etapa de análise exploratório e preditiva.
   <p><h4> Segunda etapa: (<i>em desenvolvimento</i> 💻)
   <ul> 
     <p><li> Análise exploratória:</p>
